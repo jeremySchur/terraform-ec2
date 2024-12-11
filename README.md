@@ -12,7 +12,7 @@ This repository contains Terraform configuration files to create an AWS EC2 inst
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/learn-terraform-aws-instance.git
+    git clone https://github.com/jeremySchur/terraform-ec2.git
     cd learn-terraform-aws-instance
     ```
 
