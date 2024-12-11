@@ -39,8 +39,6 @@ The main configuration file is `main.tf`, which includes the following resources
 - `aws_instance`: Defines the EC2 instance.
 - `aws_security_group`: Defines the security group for the instance.
 
-You can customize the configuration by modifying the `variables.tf` file.
-
 ## Cleanup
 
 To destroy the created resources, run:
