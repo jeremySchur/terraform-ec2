@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 
-- Your Name - [jeremySchur](https://github.com/jeremySchur)
+- Jeremy Schur - [jeremySchur](https://github.com/jeremySchur)
 
 ## Acknowledgments
 
